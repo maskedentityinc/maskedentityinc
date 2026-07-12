@@ -12,4 +12,4 @@ Content and code here are shared for non-commercial use only — see
 
 ## Managed By
 
-***Ravok*** — [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1515544081487495300)
+# Ravok — [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1515544081487495300)
